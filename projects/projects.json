@@ -1,0 +1,54 @@
+[
+
+
+    {
+        "name": "React-Projects",
+        "desc": "Full-Stack project dashboard which is collection of projects built on the React library.",
+        "image": "reactprojects",
+        "category": "mern",
+        "links": {
+            "view": "https://reactjsprojects.herokuapp.com/",
+            "code": "https://github.com/jigar-sable/React-Projects"
+        }
+    },
+
+    {
+        "name": "JavaScript Projects Website",
+        "desc": "This website is specially build to showcase all major javaScript projects. All my javaScript based projects are in it.",
+        "image": "jspro",
+        "category": "basicweb",
+        "links": {
+            "view": "https://jigar-sable.github.io/JavaScript-Projects",
+            "code": "https://github.com/jigar-sable/JavaScript-Projects"
+        }
+    },
+
+
+    {
+        "name": "Portfolio Website",
+        "desc": "Personal Portfolio Website. Don't Need Much Info About It, Just Scroll Down. You're Here Only!",
+        "image": "portfolio1",
+        "category": "basicweb",
+        "links": {
+            "view": "#",
+            "code": "https://github.com/jigar-sable/Portfolio-Website"
+        }
+    },
+
+
+    {
+        "name": "Bootstrap Website",
+        "desc": "Portfolio built using HTML, CSS, Bootstrap, SASS and JavaScript. Customized Bootstrap using SCSS.",
+        "image": "bootstrapportfolio",
+        "category": "basicweb",
+        "links": {
+            "view": "#",
+            "code": "#"
+        }
+    }
+
+
+
+
+
+]
